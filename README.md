@@ -1,14 +1,14 @@
 # azureAppServiceExercise_Udacity
 Create and Deploy an App Service Web App for Lesson 2, Exerciese
 
-Create and Deploy an App Service Web App
+Create and Deploy an App Service Web App</n>
 In this exercise, you'll create and deploy an app service web app.
 
 Prerequisites:
 
-A GitHub Account. If you don’t have one, create one here.
-Create an App Service Web App
-Create an App Service Web App with the following configuration:
+A GitHub Account. If you don’t have one, create one here.</n>
+Create an App Service Web App</n>
+Create an App Service Web App with the following configuration:</n>
 
 Resource-Group: resource-group-west
 Web App Name: unique name

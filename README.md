@@ -6,7 +6,7 @@ In this exercise, you'll create and deploy an app service web app.
 
 Prerequisites:
 
-A GitHub Account. If you don’t have one, create one here.</n>
+A GitHub Account. </b>If you don’t have one, create one here.</b>
 Create an App Service Web App</n>
 Create an App Service Web App with the following configuration:</n>
 
